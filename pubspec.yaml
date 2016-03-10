@@ -1,0 +1,9 @@
+name: pub_workflow_sample
+
+dependencies:
+  embla: ^0.2.1
+  browser: ^0.10.0+2
+  dart_to_js_script_rewriter: ^1.0.1
+
+transformers:
+- dart_to_js_script_rewriter
